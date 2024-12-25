@@ -1,5 +1,5 @@
 # Scp-Horror-Game-Atmosphere
-Horror game atmosphere including:
+Horror game atmosphere including:<br />
 -walking <br />
 -camera manupilation<br />
 -pixel art style<br />
