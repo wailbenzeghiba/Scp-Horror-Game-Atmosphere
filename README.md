@@ -16,5 +16,7 @@ Horror game atmosphere including:<br />
 <br />
 -radio uses sound to track items of interest ( only one just to try the feature )<br />
 <br />
+-made most of the assets in blender<br / >
+<br />
 Notice:<br />
 -this game is uncompleted and was just made to improve skills in using the unity game engine <br />
